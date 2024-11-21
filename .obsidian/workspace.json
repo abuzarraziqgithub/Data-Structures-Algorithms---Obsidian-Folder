@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20cb568ec47164b2",
+            "id": "5a39d2093560034d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "Notes/Big O Notation/Objectives.md",
-                "mode": "source",
-                "source": false
+                "file": "Code/Big O Code/addUpTo.js.ts"
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "addUpTo.js"
             }
           }
         ]
@@ -40,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6995d952c576f4ea",
@@ -139,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Big O Notation/Objectives.md"
+                "file": "Code/Big O Code/addUpTo.js.ts"
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of addUpTo.js"
             }
           },
           {
@@ -201,13 +200,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "20cb568ec47164b2",
+  "active": "5a39d2093560034d",
   "lastOpenFiles": [
+    "Notes/Big O Notation/Introduction.md",
+    "Code/Big O Code/addUpTo.js.ts",
+    "addUpTo1.js.md",
+    "Code/Big O Code/addUpTo1.js.md",
+    "Notes/Big O Notation/Objectives.md",
     "Code/Big O Code.js.ts",
+    "Code/Big O Code",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "Excalidraw/Drawing 2024-11-21 17.57.53.excalidraw.md",
-    "Notes/Big O Notation/Objectives.md",
     "Excalidraw",
     "ReadMe.md",
     "Practice-Problems",
