@@ -33,7 +33,8 @@
               "title": "Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Big O Code/addUpTo.js.ts"
+                "file": "Notes/Big O Notation/Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of addUpTo.js"
+              "title": "Outline of Introduction"
             }
           },
           {
@@ -214,10 +215,10 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "010a8324ec78a041",
+  "active": "8772083640242a00",
   "lastOpenFiles": [
-    "Notes/Big O Notation/Introduction.md",
     "Code/Big O Code/addUpTo.js.ts",
+    "Notes/Big O Notation/Introduction.md",
     "ReadMe.md",
     "addUpTo1.js.md",
     "Code/Big O Code/addUpTo1.js.md",

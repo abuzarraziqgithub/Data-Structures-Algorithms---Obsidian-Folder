@@ -11,9 +11,12 @@ AddUp Function(10){
         1 + 2
         2 + 3
         3 + 4
-        4 + 5..... 10 => 
+        4 + 5..... 10 => 55
     }
+
+    Return 55;
 }
+
 
 // Impl 1:
 function addUpTo(n){
@@ -24,6 +27,16 @@ for (let i = 1; i <= n; i++){
 return total;
 }
 
+
+// Pseudo Code:
+AddUp Function(10){
+    
+    Return
+     10 * (10 + 1) / 2
+     10 * 11 / 2
+     110 / 2
+     55
+}
 
 // Impl 2:
 function addUpTo(n){
