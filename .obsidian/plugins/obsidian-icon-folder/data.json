@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiPuzzle",
+      "LiNotebook",
+      "LiFolderCode"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +31,9 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Code": "LiFolderCode",
+  "Notes": "LiNotebook",
+  "Practice-Problems": "LiPuzzle",
+  "ReadMe.md": "LiAlbum"
 }
