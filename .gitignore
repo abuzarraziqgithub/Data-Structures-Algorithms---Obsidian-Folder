@@ -1,0 +1,17 @@
+# Obsidian specific
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
+.trash/
+.env
+
+# Optional: Ignore plugin configurations
+.obsidian/plugins/*/
+
+# Optional: Ignore certain note types
+drafts/
+private/
+
+# Synchronization related
+.sync/
