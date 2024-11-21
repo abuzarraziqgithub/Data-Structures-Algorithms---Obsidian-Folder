@@ -65,4 +65,22 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ##  **If not time, then what?
 
 - Rather than counting seconds, which are so variable....
-- Let's count the number of simple operations the computer has to perform!
+- Let's count the number of simple operations the computer has to perform! (*See Drawings)
+
+
+## **Counting is hard!
+
+- Depending on what we count, the number of operations can be as low as 2n or as high as 5n + 2.
+- But regardless of the exact number, the number of operations grows roughly proportionally with n.
+- If n doubles, the number of operations will also roughly double.
+
+
+ That's it for today, See you tomorrow! 💌
+ Topics: 
+  - Introducing  Big O.
+  - Big O Expressions
+  - Big O Short-hands
+  - Examples
+  - Analyzing Big O Graph
+  - Space complexity
+  
