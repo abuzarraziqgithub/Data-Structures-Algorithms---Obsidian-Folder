@@ -58,7 +58,7 @@ function addUpTo(n){
 let t1 = Performance.now();
 addUpTo(10000000);
 let t2 = Performance.now();
-console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds`)
+// console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds`)
 
 
 

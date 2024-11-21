@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖌",
       "LiAlbum",
       "LiPuzzle",
       "LiNotebook",
@@ -35,5 +36,6 @@
   "Code": "LiFolderCode",
   "Notes": "LiNotebook",
   "Practice-Problems": "LiPuzzle",
-  "ReadMe.md": "LiAlbum"
+  "ReadMe.md": "LiAlbum",
+  "Drawings": "🖌"
 }

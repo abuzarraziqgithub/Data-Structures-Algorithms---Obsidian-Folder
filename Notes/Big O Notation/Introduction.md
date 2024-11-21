@@ -54,3 +54,15 @@ addUpTo(1000000000);
 let t2 = performance.now();
 console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ```
+
+
+## **The Problem With Time
+
+- Different machines will record different times
+- The same machine will record different times due to other load.
+- For fast algorithms, speed measurements may not be precise enough?
+
+##  **If not time, then what?
+
+- Rather than counting seconds, which are so variable....
+- Let's count the number of simple operations the computer has to perform!
