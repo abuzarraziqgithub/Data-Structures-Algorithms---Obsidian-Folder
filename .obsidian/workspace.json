@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is my first file on obsidian.md",
+                "file": "Readme.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is my first file on obsidian"
-            }
-          },
-          {
-            "id": "a4c8fd954288c271",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "This is my first file on obsidian.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (This is my first file on obsidian)"
+              "title": "Readme.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6995d952c576f4ea",
@@ -152,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Readme.md.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Readme.md"
             }
           },
           {
@@ -187,9 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4c8fd954288c271",
+  "active": "1d9f2bc3a6fb1c15",
   "lastOpenFiles": [
-    "This is my first file on obsidian.md",
-    "he.gitignore.md"
+    "Readme.md.md",
+    "he.gitignore.md",
+    "This is my first file on obsidian.md"
   ]
 }
