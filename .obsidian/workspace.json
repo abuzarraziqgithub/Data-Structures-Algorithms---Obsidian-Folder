@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfc6e48b642c6f8",
-        "type": "tabs",
+        "id": "b0e0803eaf21a9a0",
+        "type": "split",
         "children": [
           {
-            "id": "d4f16438e6af9f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big O Notation/Objectives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objectives"
-            }
+            "id": "7cfc6e48b642c6f8",
+            "type": "tabs",
+            "dimension": 23.14814814814815,
+            "children": [
+              {
+                "id": "d4f16438e6af9f05",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Big O Notation/Objectives.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Objectives"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9db15b4e8293d522",
+            "type": "tabs",
+            "dimension": 76.85185185185185,
+            "children": [
+              {
+                "id": "32ff57b536aab475",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of Objectives"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6995d952c576f4ea",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big O Notation/Objectives.md"
+                "file": "Notes/Big O Notation/Objectives.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Objectives"
@@ -161,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f16438e6af9f05",
+  "active": "32ff57b536aab475",
   "lastOpenFiles": [
-    "Big O Notation",
     "ReadMe.md",
-    "Big O Notation/Objectives.md",
+    "Practice-Problems",
+    "Code",
+    "Notes",
+    "Untitled 1",
+    "Notes/Big O Notation/Objectives.md",
+    "Notes/Big O Notation",
     "he.gitignore.md",
     "This is my first file on obsidian.md"
   ]
