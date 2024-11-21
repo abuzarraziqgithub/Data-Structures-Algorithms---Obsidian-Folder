@@ -7,4 +7,34 @@
 - It's important to have a precise vocabulary to talk about how our code performs.
 
   Suppose we want to write a function that calculates the sum of all numbers from 1 up to number n.
-  - Implementation of the Programs are in Code Folder.
+```
+Code - 1:
+
+function addUpTo(n) {
+  let total = 0;
+  for (let i = 1; i <= n; i++) {
+    total += i;
+  }
+  return total;
+}
+
+Code - 2:
+
+function addUpTo(n) {
+  return n * (n + 1) / 2;
+}
+```
+
+### **What  does better mean?
+
+- Is it the code that is **Faster?
+- Less memory-intensive or Code that **take less memory?
+- Is it More **Readable?
+
+
+## **Let's Focus on Faster Code
+
+- we can use **performance.now()** method for checking the run time of the code.
+   ***performance is a web API that provides access to performance-related information for the current page.
+- Performance.now() return and represents the number of milliseconds elapse
+   
