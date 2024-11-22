@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAxis3d",
       "🖌",
       "LiAlbum",
       "LiPuzzle",
-      "LiNotebook",
-      "LiFolderCode"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Notes": "LiNotebook",
   "Practice-Problems": "LiPuzzle",
   "ReadMe.md": "LiAlbum",
-  "Drawings": "🖌"
+  "Drawings": "🖌",
+  "Notes/Big O Notation": "LiAxis3d"
 }

@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Big O Notation/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "8b3c9af346d2de00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Talks.md",
+                "file": "Notes/Big O Notation/Lecture Talks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lecture Talks"
+            }
+          },
+          {
+            "id": "622059f5dbaa512b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Big O Notation/Logarithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logarithms"
+            }
+          },
+          {
+            "id": "f0353799030abfce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Big O Notation/Recap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recap"
             }
           },
           {
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -104,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6995d952c576f4ea",
@@ -167,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Talks.md"
+                "file": "Notes/Big O Notation/Recap.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture Talks"
+              "title": "Outline of Recap"
             }
           },
           {
@@ -208,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,11 +241,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b3c9af346d2de00",
+  "active": "dd8353eda0855836",
   "lastOpenFiles": [
-    "Drawings/Counting Operations.excalidraw.md",
-    "Lecture Talks.md",
+    "Notes/Big O Notation/Lecture Talks.md",
+    "Notes/Big O Notation/Recap.md",
+    "Notes/Big O Notation/Logarithms.md",
     "Notes/Big O Notation/Introduction.md",
+    "Drawings/time-complexity_0.jpg",
+    "Drawings/Counting Operations.excalidraw.md",
+    "time-complexity.jpg",
+    "Notes/Big O Notation/The Big O.md",
+    "time-complexity.jpg.crdownload",
+    "Notes/Big O Notation/Space Complexity.md",
     "Code/Big O Code/addUpTo.js.ts",
     "Notes/Big O Notation/Objectives.md",
     "demo.js",
@@ -250,7 +269,6 @@
     "Code",
     "Notes",
     "Untitled 1",
-    "Notes/Big O Notation",
     "he.gitignore.md",
     "This is my first file on obsidian.md"
   ]
