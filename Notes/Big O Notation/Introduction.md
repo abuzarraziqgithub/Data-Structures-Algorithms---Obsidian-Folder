@@ -3,7 +3,6 @@
 - How can we determine which one is the best (and in what sense)?
 
 
-
 - It's important to have a precise vocabulary to talk about how our code performs.
 
   Suppose we want to write a function that calculates the sum of all numbers from 1 up to number n.
@@ -65,7 +64,8 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ##  **If not time, then what?
 
 - Rather than counting seconds, which are so variable....
-- Let's count the number of simple operations the computer has to perform! (*See Drawings)
+- Let's count the number of simple operations the computer has to perform! (*See Drawings) because that remains constant no matter what we are on.
+- The time we get might be different but it will always determined by the number of operations, so we can use that rather than exact time  just focus on the number of simple operations computer has to perform.
 
 
 ## **Counting is hard!
